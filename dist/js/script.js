@@ -35,7 +35,7 @@ extendbtn.addEventListener('click', () => {
     topnews.style.display='block';
     cat.style.display='none';
     footer.style.height = "850px";
-    extendbtn.src="../icons/fill2.png";
+    extendbtn.src="icons/fill2.svg";
 });
 
 
@@ -44,7 +44,7 @@ extendbtn2.addEventListener('click', () => {
     cat.style.display='block';
     topnews.style.display='none';
     footer.style.height = "817px";
-    extendbtn2.src="../icons/fill2.png";
+    extendbtn2.src="icons/fill2.svg";
     extendbtn2.style.marginTop='-22px';
 });
 
