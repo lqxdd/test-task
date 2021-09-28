@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1169px;
+    margin: 0 auto;
+}
+
+@import 'blocks/promo';
+@import 'blocks/about';
+@import 'blocks/footer';
+@import 'blocks/media';
